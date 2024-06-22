@@ -1,0 +1,27 @@
+restaurant-chatbot/
+  ├── config/
+  │   └── db.js
+  ├── controllers/
+  │   └── chatbotController.js
+  ├── middleware/
+  │   └── errorHandler.js
+  ├── models/
+  │   └── Order.js
+  │   └── UserSession.js
+  ├── node_modules/
+  │ 
+  ├── routes/
+  │   └── routes.js
+  ├── test/
+  │   └── chatbot.test.js
+  ├── utils/
+  │   └── helpers.js
+  ├── validators/
+  │   └── chatbotValidators.js
+  ├── index.html
+  ├── logger.js
+  ├── main.js
+  ├── package-lock.json
+  ├── package.json
+  ├── script.js
+  └── styles.css
